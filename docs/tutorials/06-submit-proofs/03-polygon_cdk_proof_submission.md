@@ -31,7 +31,7 @@ https://dashboard.tenderly.co/tx/1/0x5c74be04b086dccaf27e6138d468fd9a3cd3a7e295e
 
 From the bottom console copy the content of the field `proof` and remove all the junk characters to make it into a single line without `"` and `0x` (a part from the first).
 
-![alt_text](./img/tenderly3_720.png)
+![alt_text](./img/teaasdanderly3_720.png)
 
 In this example the value is:
 
