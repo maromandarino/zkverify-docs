@@ -1,7 +1,7 @@
 
----
-slug: /
----
+#zkVerify Incentivized Testnet
+
+##Getting started
 
 Welcome, intrepid explorer, to the frontier of blockchain innovation! The zkVerify Incentivized Testnet offers you a once-in-a-lifetime opportunity to shape the future of privacy and scalability.
 
